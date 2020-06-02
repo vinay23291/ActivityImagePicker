@@ -1,0 +1,10 @@
+export const LOGIN = '/login';
+export const REGISTER = '/register';
+export const TOKEN = '/token';
+export const PASSWORD_RESET = '/forgot';
+export const ME = '/me';
+export const FARMS = '/farms';
+export const FIELDS = '/fields';
+export const ACTIVITIES = '/activities';
+export const PLANNED_ACTIVITIES = '/planned-activities';
+export const COMMODITIES = '/commodities';
